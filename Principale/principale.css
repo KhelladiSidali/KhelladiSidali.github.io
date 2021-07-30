@@ -1,0 +1,137 @@
+body{
+    background: url(subscribe2.JPG) fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.haut{
+    background-color: rgba(0, 0, 0, 0.2);
+    height: 250px;
+    width: 100%;
+    color: #fff;
+    margin-bottom: -10px;
+}
+.search{
+    border-radius: 7px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background-color: rgba(255, 255, 255, 0.808);
+}
+.accessoir{
+   
+    background-color: red;
+}
+.chargeurPr{
+    position: relative;
+    left: -40%;
+    top: -20px;
+}
+.cablePr{
+    position: relative;
+    left: -39%;
+    top: -20px;
+}
+.autoPr{
+    position: relative;
+    left: -38%;
+    top: -20px;
+}
+.bafflePr{
+    position: relative;
+    left: -37%;
+    top: -20px;
+}
+.kitmanPr{
+    position: relative;
+    left: -36%;
+    top: -20px;
+}
+a{
+    color: #5e61ce;
+    text-decoration: none;
+}
+.container{
+    position: relative;
+    width: 100%;
+    left: 1%;
+    right: 1%;
+    height: 800px;
+}
+.Ph{
+    color :black;
+    border-radius: 7px;
+    background-color: #fff;
+    width: 300px;
+    height: 350px;
+}
+.P1{
+    position: absolute;
+    left: -20%;
+    top: 55px;
+}
+.P2{
+    position: absolute;
+    left: 8.75%;
+    top: 55px;
+}
+.P3{
+    position: absolute;
+    left: 37.5%;
+    top: 55px;
+}
+.P4{
+    position: absolute;
+    left: 65.75%;
+    top: 55px;
+}
+.P5{
+    position: absolute;
+    left: 94%;
+    top: 55px;
+}
+.P6{
+    position: absolute;
+    left: -20%;
+    top: 440px;
+}
+.P7{
+    position: absolute;
+    left: 8.75%;
+    top: 440px;
+}
+.P8{
+    position: absolute;
+    left: 37.5%;
+    top: 440px;
+}
+.P9{
+    position: absolute;
+    left: 65.75%;
+    top: 440px;
+}
+.P10{
+    position: absolute;
+    left: 94%;
+    top: 440px;
+}
+.contact{
+    position: absolute;
+    padding: 20px 0px 0px 30px;
+    zoom: 150%;
+    background-color: rgba(189, 189, 189, 0.678);
+    height: 150px;
+    margin-top: 20px;
+    top: 100%;
+}
+.instagram{
+    border-radius: 7px;
+}
+.facebook{
+    border-radius: 50%;
+}
+.containerfacebook{
+    margin-top: 5px;
+}
+
+
